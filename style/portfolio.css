@@ -21,7 +21,7 @@ body{
     font-weight: 700;
        
 }
-.section-descriptio{
+.section-description{
  color: #757575;
  text-align: center;
  font-size: 18px;   
@@ -167,7 +167,8 @@ color: #757575;
     text-align: center;
     margin-top: 50px;
 }
-/* footer styel*/
+
+/* footer stye*/
 footer{
     display: flex;
     background: #FFF8F3;
